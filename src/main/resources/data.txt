@@ -26,3 +26,31 @@
     "phone":"758962485",
     "email":"Luis@gmail.com"
 }
+{
+    "name":"Michele",
+    "imageUrl":"https://www.bootdey.com/img/Content/avatar/avatar5.png",
+    "jobTitle":"SPRING",
+    "phone":"214578569",
+    "email":"Michele@gmail.com"
+}
+{
+    "name":"Jon",
+    "imageUrl":"https://www.bootdey.com/img/Content/avatar/avatar6.png",
+    "jobTitle":"NODE",
+    "phone":"457896325",
+    "email":"Jon@gmail.com"
+}
+{
+    "name":"Paul",
+    "imageUrl":"https://www.bootdey.com/img/Content/avatar/avatar7.png",
+    "jobTitle":"SQL",
+    "phone":"896541257",
+    "email":"Paul@gmail.com"
+}
+{
+    "name":"Mike",
+    "imageUrl":"https://www.bootdey.com/img/Content/avatar/avatar8.png",
+    "jobTitle":"JAVASCRIPT",
+    "phone":"224587569",
+    "email":"Mike@gmail.com"
+}
