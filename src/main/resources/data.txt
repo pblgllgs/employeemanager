@@ -1,0 +1,28 @@
+{
+    "name":"Pablo",
+    "imageUrl":"https://www.bootdey.com/img/Content/avatar/avatar1.png",
+    "jobTitle":"JAVA",
+    "phone":"957592973",
+    "email":"pbl.gllgs@gmail.com"
+}
+{
+    "name":"Carlos",
+    "imageUrl":"https://www.bootdey.com/img/Content/avatar/avatar2.png",
+    "jobTitle":"ANGULAR",
+    "phone":"54875896",
+    "email":"Carlos@gmail.com"
+}
+{
+    "name":"Mario",
+    "imageUrl":"https://www.bootdey.com/img/Content/avatar/avatar3.png",
+    "jobTitle":"DATABASE",
+    "phone":"124598658",
+    "email":"Mario@gmail.com"
+}
+{
+    "name":"Luis",
+    "imageUrl":"https://www.bootdey.com/img/Content/avatar/avatar4.png",
+    "jobTitle":"TYPESCRIPT",
+    "phone":"758962485",
+    "email":"Luis@gmail.com"
+}
